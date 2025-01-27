@@ -3,8 +3,8 @@ Contributors: Buttonizer, freemius
 Buy plugin: https://buttonizer.io
 Tags: Conversion, action button, call, marketing, Social Sharing
 Requires at least: 4.7
-Tested up to: 6.6
-Stable tag: 3.4.6
+Tested up to: 6.7
+Stable tag: 3.4.8
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -15,13 +15,13 @@ Button builder. WhatsApp Chat, Facebook Messenger, Telegram, Call, SMS, Email & 
 
 [Features](https://buttonizer.io/features/) | [Knowledge base](https://r.buttonizer.io/support/knowledgebase) | [Community](https://r.buttonizer.io/support/community)
 
-From WhatsApp Chat, Facebook Messenger, Floating contactform, WhatsApp widgets (New: WhatsApp Business), Click to Chat, Call, Email etc. Buttonizer is the most versatile <strong>Smart Floating Action (Sticky) Button plugin</strong> for WordPress.
+From WhatsApp Chat, Facebook Messenger, Floating contact form, WhatsApp widgets (New: WhatsApp Business), Click to Chat, Call, Email etc. Buttonizer is the most versatile <strong>Smart Floating Action (Sticky) Button plugin</strong> for WordPress.
 
 * Choose **from over 40 click actions and chat buttons**
 * Setup within 10 seconds + smart front-end interface (WYSIWYG Editor)
 * Templates ready or choose from all possible styling options
 * Build <strong>unlimited</strong> single floating buttons or interactive sticky menus
-* Floating popups and contactforms
+* Floating popups and contact forms
 * Smart filters like show on scroll, device, pages and specific times
 * Analytics dashboard to see all interactions, leads and conversions
 
@@ -70,7 +70,7 @@ Watch the video below to learn more on adding a Facebook Messenger Chat widget t
  * Share on Waze
  * Share on Line
  * Share on Behance
-* **Open pop-up (optional: with contactform)**
+* **Open pop-up (optional: with contact form)**
  * Poptin
  * Elementor Popup
  * Popup Maker
@@ -84,7 +84,8 @@ Watch the video below to learn more on adding a Facebook Messenger Chat widget t
 * Download PDF Button
 * Print page
 * Copy page **URL**
-* Contact form with Webhook support (PRO)
+* Contact form
+ * Contact form Webhook support (PRO)
 * Iframe Widget (PRO)
 * Add custom JavaScript code (PRO)
 
@@ -124,7 +125,7 @@ With Buttonizer it is possible to add multiple floating action buttons to one po
 
 <strong>+ Connect with your visitors on WhatsApp Business</strong>. Connect WhatsApp Business to your site. Your visitors can start chatting with you on WhatsApp Business.
 
-<strong>+ Setup different floating buttons on mobile and desktop </strong>. Show different chat buttons depending on the device where your visitor is using. Like show a call now and whatsapp button on mobile and a contactform, email and url on desktop.
+<strong>+ Setup different floating buttons on mobile and desktop </strong>. Show different chat buttons depending on the device where your visitor is using. Like show a call now and whatsapp button on mobile and a contact form, email and url on desktop.
 
 <strong>+ Add Click to call button</strong>. Show a phone icon and let your visitors click to call you. If you can show different local phone numbers based on page URL or available days and hours.
 
@@ -231,7 +232,7 @@ WhatsApp chat, Facebook Messenger, Instagram, Email, SMS, Snapchat, X (Twitter),
 We have the following widgets natively integrated:
 - WhatsApp widget
 - Facebook Messenger widget
-- Contact form with Webhook support (PRO)
+- Contact form (PRO: integrated Webhook support)
 - Iframe widget (PRO)
 
 Customize their position and visibility wherever you need. With the iframe widget you are able to show YouTube video's, integrate Calendly or any other page or website.
@@ -259,6 +260,22 @@ Languages can have a different direction of writing and reading? While languages
 
 
 == Changelog ==
+
+= 3.4.8 =
+Release date: January 27, 2025
+
+**Changelog:**
+- We updated the Freemius SDK to the latest version
+
+If you experience bugs, problems or you just have some feedback, let us know on our [Buttonizer community](https://community.buttonizer.pro/)!
+
+= 3.4.7 =
+Release date: November 11, 2024
+
+**Changelog:**
+- WordPress 6.7 ready
+
+If you experience bugs, problems or you just have some feedback, let us know on our [Buttonizer community](https://community.buttonizer.pro/)!
 
 = 3.4.6 =
 Release date: October 24, 2024
@@ -1218,7 +1235,7 @@ List of new button actions:
   * VKontakte
   * Poptin
   * Waze
-* **Open pop-up (optional: with contactform)**
+* **Open pop-up (optional: with contact form)**
   * Poptin
   * Elementor Popup
   * Popup Maker
